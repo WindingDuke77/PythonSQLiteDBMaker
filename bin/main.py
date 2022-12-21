@@ -1,5 +1,5 @@
 # Made by: Jess
-# Github: 
+# Github: https://github.com/WindingDuke77/PythonSQLiteDBMaker
 
 import sqlite3
 
